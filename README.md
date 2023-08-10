@@ -11,11 +11,11 @@
 
 - Connect Power BI to the SQL Server database and create interactive dashboards and reports to visualize the key findings. Build charts, graphs, and tables to effectively convey the insights.
 
-- Schedule and automate the data import, processing, and loading into SQL Server using Python scripts and Windows Task Scheduler.
+- Schedule and automate the data import, processing, and loading into SQL Server using Python.
 
-- Host the project on GitHub with source code, SQL scripts, Power BI reports, and documentation. Follow best practices to organize the repository.
+  
 
-- Include detailed README files explaining the setup, installation requirements, usage, and execution instructions for the different components.
 
-- This project showcases an automated end-to-end aviation accident data analysis and meaningful visualizations by integrating Python, SQL Server, and Power BI. It provides a practical workflow for data engineering and analytics.
+
+- This project showcases an automated end-to-end aviation accident data analysis and meaningful visualizations by integrating Python, SQL Server, and Power BI. It provides a practical workflow for data analytics.
 
